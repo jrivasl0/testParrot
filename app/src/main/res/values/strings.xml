@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestParrot</string>
+    <string name="error_conectivity_message">Ocurrió un error en la conexión, por favor, intente mas tarde</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="quantity_items">(%i)</string>
+    <string name="available">Available</string>
+</resources>
